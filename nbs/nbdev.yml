@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastdev"
+  site-url: "https://simunaqv.github.io/fastdev"
+  description: "Developing Fast AI"
+  repo-branch: main
+  repo-url: "https://github.com/simunaqv/fastdev"
